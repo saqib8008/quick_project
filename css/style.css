@@ -207,14 +207,17 @@ header{
 /*service hover start*/
 .left:hover{
     background-color: #7eddf58c;
+    cursor: pointer;
 }
 
 .mid:hover{
     background-color: #ffdfa8ab;
+    cursor: pointer;
 }
 
 .right:hover{
     background-color: #abffe386;
+    cursor: pointer;
 }
 
 
